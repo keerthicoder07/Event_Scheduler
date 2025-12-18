@@ -68,11 +68,10 @@ This is a web application for scheduling events and allocating resources (rooms,
 <img width="1909" height="1079" alt="Screenshot 2025-12-18 192243" src="https://github.com/user-attachments/assets/c0bb2237-f0a8-4f14-9000-edff925fe381" /><br>
 <img width="1919" height="1079" alt="Screenshot 2025-12-18 192358" src="https://github.com/user-attachments/assets/5d0a0fd2-12e5-436f-8560-4e101993a0a7" /><br>
 <img width="1916" height="1079" alt="Screenshot 2025-12-18 192412" src="https://github.com/user-attachments/assets/2ed22c6e-dd8e-4d93-99d0-c3eb7ea00456" /><br>
-**Watch the demo video**<br>
+**Watch the demo video(click the below thumbnail)**<br>
 <a href="https://drive.google.com/file/d/1S4qP5f2N-19BNcC_X-hX8xHc8-P9vusO/view">
-  <img src="https://drive.google.com/thumbnail?id=1S4qP5f2N-19BNcC_X-hX8xHc8-P9vusO" width="600" />
+  <img src="https://drive.google.com/thumbnail?id=1S4qP5f2N-19BNcC_X-hX8xHc8-P9vusO&sz=w1000" width="600" />
 </a>   
-
 
 
 
